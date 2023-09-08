@@ -108,3 +108,10 @@ To get started with Celnet.Domain, follow these steps:
 4. Utilize the provided API implementation for your backend development, making use of IApi and IApiBuilder to define and execute requests.
 
 
+## Contributing
+
+We welcome contributions to the Celnet.Domain library. If you have ideas for improvements, bug fixes, or new features, please open an issue or create a pull request on our GitHub repository.
+
+## License
+
+This library is licensed under the MIT License. See the [LICENSE](https://github.com/skrax/Celnet.Domain/blob/main/LICENSE) file for details.
