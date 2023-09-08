@@ -1,6 +1,6 @@
 using System;
 
-namespace Celnet.Domain
+namespace Celnet.Domain.Interfaces
 {
     public interface IServer : IPeer, IDisposable
     {

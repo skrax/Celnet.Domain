@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using Celnet.Domain.Interfaces;
 
 namespace Celnet.Domain
 {

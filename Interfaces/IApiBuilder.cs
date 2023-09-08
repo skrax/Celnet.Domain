@@ -1,6 +1,6 @@
 using System;
 
-namespace Celnet.Domain
+namespace Celnet.Domain.Interfaces
 {
     public interface IApiBuilder<out TBody, in TResponse> 
         where TBody : class where TResponse : class 

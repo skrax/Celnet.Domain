@@ -1,4 +1,4 @@
-namespace Celnet.Domain
+namespace Celnet.Domain.Events
 {
     public class PeerDisconnectEvent
     {

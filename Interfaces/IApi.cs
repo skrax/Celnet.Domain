@@ -1,4 +1,4 @@
-namespace Celnet.Domain
+namespace Celnet.Domain.Interfaces
 {
     public interface IApi<in TBody, out TResponse> where TBody : class where TResponse : class
     {

@@ -1,4 +1,4 @@
-namespace Celnet.Domain
+namespace Celnet.Domain.Interfaces
 {
     public interface IApiMiddleware<TRequestBody, TResponseBody>
         where TRequestBody : class

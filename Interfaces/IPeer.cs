@@ -1,6 +1,7 @@
 using System;
+using Celnet.Domain.Events;
 
-namespace Celnet.Domain
+namespace Celnet.Domain.Interfaces
 {
     public interface IPeer
     {
