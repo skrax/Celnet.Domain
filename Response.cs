@@ -8,7 +8,7 @@ namespace Celnet.Domain
         
         public Guid RequestId { get; set; }
         
-        public string RequestRoute { get; set; }
+        public string? RequestRoute { get; set; }
         
         public int Code { get; set; }
         

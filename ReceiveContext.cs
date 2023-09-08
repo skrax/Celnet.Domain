@@ -14,6 +14,6 @@ namespace Celnet.Domain
 
         public Response<TResponseBody>? Response { get; set; }
         
-        public IDictionary<string, object> Keys { get; set; }
+        public IDictionary<string, object>? Keys { get; set; }
     }
 }

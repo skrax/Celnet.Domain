@@ -6,7 +6,7 @@ namespace Celnet.Domain
     {
         public Guid Id { get; set; }
         
-        public string Route { get; set; }
+        public string? Route { get; set; }
         
         public Method Method { get; set; }
         

@@ -6,6 +6,6 @@ namespace Celnet.Domain.Events
         
         public uint ChannelId { get; set; }
         
-        public byte[] Data { get; set; }
+        public byte[]? Data { get; set; }
     }
 }
