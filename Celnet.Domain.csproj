@@ -11,9 +11,14 @@
         <Copyright>(c) 2023 Fabian Seidl</Copyright>
         <PackageProjectUrl>https://github.com/skrax/Celnet.Domain</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
         <RepositoryUrl>https://github.com/skrax/Celnet.Domain</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <Version>1.0.1</Version>
     </PropertyGroup>
+    
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="\"/>
+    </ItemGroup>
 
 </Project>
