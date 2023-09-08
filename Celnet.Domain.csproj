@@ -5,6 +5,14 @@
         <Nullable>enable</Nullable>
         <LangVersion>8</LangVersion>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Celnet.Domain</Title>
+        <Authors>Fabian Seidl</Authors>
+        <Description>Core package for building Celnet applications</Description>
+        <Copyright>(c) 2023 Fabian Seidl</Copyright>
+        <PackageProjectUrl>https://github.com/skrax/Celnet.Domain</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/skrax/Celnet.Domain</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
